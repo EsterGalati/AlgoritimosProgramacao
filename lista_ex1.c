@@ -10,11 +10,5 @@ minutos = horas * 60;
 segundos = minutos * 60;
 printf("Minutos: %d" , minutos);
 prinf("Segundos %d", segundos);
-
-
-
-
-
-
 }
 
