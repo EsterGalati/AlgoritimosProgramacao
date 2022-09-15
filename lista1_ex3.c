@@ -11,4 +11,5 @@ int main(){
      scanf("%d", &n2);
      quociente = n1 / n2;
      resto = n1 % n2;
+     //fim do codigo
 }
