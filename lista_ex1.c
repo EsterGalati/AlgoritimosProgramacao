@@ -3,7 +3,7 @@
 
 #include<stdio.h> // BIBLIOTECA PARA OS COMANDOS  printf e scanf
 int main(){ //incio do algoritimo   
-int horas;
+int horas, minutos, segundos;
 printf("Digite a quantidade de horas");
 scanf("%d",&horas);
 minutos = horas * 60;
