@@ -7,9 +7,9 @@ int main()
     scanf("%d%d", &valor1, &valor2); 
     
   
-   if(valor1>valor1)
-        printf("O valor 1(%d) é maior que o valor 2(%d)\n", valor1,valor2);
-         else printf("O valor 2(%d) e maior que o valor 1(%d)\n", valor1,valor2);
+   if(valor1>valor2)
+        printf("O valor(%d) é maior que o valor (%d)\n", valor1,valor2);
+         else printf("O valor (%d) e menor que o valor (%d)\n", valor1,valor2);
 
 
 
