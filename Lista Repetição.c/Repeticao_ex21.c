@@ -2,19 +2,6 @@
 #include <stdio.h>
 #include <string.h>
 
-// Uma pesquisa sobre algumas características físicas da população de uma determinada
-// região coletou os seguintes dados, referentes a cada habitante, para serem analisados:
-// Sexo (masculino, feminino)
-// Cor dos olhos (azuis, verdes, castanhos)
-// Cor dos cabelos (louros, castanhos, pretos)
-// Idade em anos.
-// Para cada habitante, foi digitada uma linha com esses dados e a última linha, que não
-// corresponde a ninguém, conterá o valor de idade igual a -1. Fazer um programa que determine e
-// escreva:
-// A maior idade dos habitantes;
-// A porcentagem cd indivíduos do sexo feminino cuja idade está entre 18 e 35 anos
-// inclusive e que tenham olhos verdes e cabelos louros.
-
 main() {
     float porcentagemFeminina;
     int idade, maiorIdade, contPorcentagem, cont;
