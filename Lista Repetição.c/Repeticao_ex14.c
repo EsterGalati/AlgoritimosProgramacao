@@ -17,14 +17,11 @@ int main(){
      mai = n;
 
    } 
-
    if(n < men){
 
      men = n;
-
    }
    num = n;
-
  }while (num >= 0);
 
     printf("\n\n-=-=-=-[ Maior numero digitado ]-=-=-=-\n%d\n\n-=-=-=-[ Menor numero digitado ]-=-=-=-\n%d",mai,men);
