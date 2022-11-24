@@ -8,4 +8,4 @@ int main(){
   scanf("%f", &raio);
   area = 3.14159 * pow(raio,2); // POW FUNÇÃO MATEMATICA DA BIBLIOTECA MATH.H
   printf("Area:%f", area); 
-  //FIM DA FUNÇÃO.
+  //FIM DA FUNÇÃO. 
