@@ -7,5 +7,5 @@ int main(){
   printf("Digite o valor do raio");
   scanf("%f", &raio);
   area = 3.14159 * pow(raio,2); // POW FUNÇÃO MATEMATICA DA BIBLIOTECA MATH.H
-  printf("Area:%f", area); 
+  printf("Area:%f", area); }
   //FIM DA FUNÇÃO. 
